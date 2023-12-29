@@ -24,21 +24,21 @@
   justify-content: space-between;
 }
 
-.nav-logo {
+.nav__nav-logo {
   position: relative;
   left: -50px;
   width: 105px;
   height: 39px;
 }
 
-.nav-links {
+.nav__nav-links {
   display: flex;
   margin: 0;
   padding: 0;
   gap: 20px;
   list-style-type: none;
 }
-.nav-link {
+.nav__nav-links__nav-link {
   color: black;
   text-decoration: none;
 }
