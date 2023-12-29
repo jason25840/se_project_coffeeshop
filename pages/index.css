@@ -31,14 +31,14 @@
   height: 39px;
 }
 
-.nav__links {
+.nav-links {
   display: flex;
   margin: 0;
   padding: 0;
   gap: 20px;
   list-style-type: none;
 }
-.nav__link {
+.nav-link {
   color: black;
   text-decoration: none;
 }
@@ -133,7 +133,7 @@
   padding-bottom: 80px;
 }
 
-.recipes__iframes {
+.recipes__videos {
   display: flex;
   justify-content: center;
   gap: 40px;
