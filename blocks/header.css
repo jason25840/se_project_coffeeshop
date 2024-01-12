@@ -4,7 +4,7 @@
   height: 100vh;
   padding: 30px 80px 40px;
   background-color: #fff;
-  background-image: url(/images/background_header.svg);
+  background-image: url(../images/background_header.svg);
   background-size: cover;
   display: flex;
   flex-direction: column;
