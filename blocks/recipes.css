@@ -2,7 +2,7 @@
   padding: 100px 80px 215px;
   background-color: #0a2750;
   background-image: url(../images/background_recipes.svg);
-  background-size: cover;
+  background-size: center;
 }
 
 .recipes__title {
