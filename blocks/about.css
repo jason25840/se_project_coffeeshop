@@ -33,7 +33,7 @@
   z-index: 1;
 }
 
-.about__paragraph {
+.about__content {
   font-family: "Noto Serif", "Times New Roman", serif;
   font-style: normal;
   font-weight: normal;
@@ -41,7 +41,14 @@
   line-height: 30px;
   max-width: 660px;
   margin: 119px 80px 173px auto;
-  gap: 20px;
+}
+
+.about__paragraph {
+  margin: 0 0 20px;
+}
+
+.about__paragraph:last-child {
+  margin: 0;
 }
 
 .about__circle {
